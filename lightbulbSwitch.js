@@ -2,7 +2,7 @@ console.log('Loading function');
 
 var config = {
     "thingName": 'lightbulb',
-    "endpointAddress": "A3FS6F1FNBR42Z.iot.us-east-1.amazonaws.com"
+    "endpointAddress": "<PUT YOUR ENDPOINT HERE>"
 }
 
 var AWS = require('aws-sdk');
